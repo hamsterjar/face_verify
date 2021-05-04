@@ -10,7 +10,7 @@ setuptools.setup(
     description="MTCNN + FaceNet -> Face Recognition",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/paoloripamonti/face-recognition.git",
+    url="https://github.com/hamsterjar/face_verify.git",
     packages=setuptools.find_packages(),
     keywords=['facenet', 'opencv', 'deep learning', 'machine learning'],
     classifiers=[
