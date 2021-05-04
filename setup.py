@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name='facenet-face-recognition',
     version='0.2',
-    author="Paolo Ripamonti",
-    author_email="paolo.ripamonti93@gmail.com",
+    author="้ham",
+    author_email="hamster.jargon@gmail.com",
     description="MTCNN + FaceNet -> Face Recognition",
     long_description=long_description,
     long_description_content_type="text/markdown",
